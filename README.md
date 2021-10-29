@@ -8,3 +8,4 @@ Fetch HLS from WebRTC streams
 - https://sudonull.com/post/67269-We-broadcast-WebRTC-RTSP-and-RTMP-streams-to-Media-Source-Extensions-via-Websocket-protocol
 - https://github.com/Novage/p2p-media-loader
 - https://docs.agora.io/en/Interactive%20Broadcast/cdn_streaming_web_ng?platform=Web
+- https://github.com/AgoraIO/API-Examples-Web
