@@ -9,3 +9,5 @@ Fetch HLS from WebRTC streams
 - https://github.com/Novage/p2p-media-loader
 - https://docs.agora.io/en/Interactive%20Broadcast/cdn_streaming_web_ng?platform=Web
 - https://github.com/AgoraIO/API-Examples-Web
+- https://www.dacast.com/blog/rtmp-encoder-live-video-streaming/
+- https://docs.agora.io/en/cloud-recording/landing-page?platform=RESTful
