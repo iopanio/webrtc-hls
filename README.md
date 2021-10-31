@@ -13,3 +13,4 @@ Fetch HLS from WebRTC streams
 - https://docs.agora.io/en/cloud-recording/landing-page?platform=RESTful
 - https://github.com/mitmproxy/mitmproxy
 - https://developers.google.com/web/updates/2016/10/capture-stream
+- https://webrtc.github.io/samples/src/content/capture/video-pc/
