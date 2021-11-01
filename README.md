@@ -14,3 +14,5 @@ Fetch HLS from WebRTC streams
 - https://github.com/mitmproxy/mitmproxy
 - https://developers.google.com/web/updates/2016/10/capture-stream
 - https://webrtc.github.io/samples/src/content/capture/video-pc/
+- https://www.youtube.com/watch?v=p2HzZkd2A40
+- https://www.youtube.com/watch?v=E8C8ouiXHHk
