@@ -17,3 +17,4 @@ Fetch HLS from WebRTC streams
 - https://www.youtube.com/watch?v=p2HzZkd2A40
 - https://www.youtube.com/watch?v=E8C8ouiXHHk
 - https://docs.agora.io/en/cloud-recording/product_cloud_recording?platform=RESTful
+- https://www.section.io/engineering-education/agora-cloud-recording/
