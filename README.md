@@ -19,3 +19,4 @@ Fetch HLS from WebRTC streams
 - https://docs.agora.io/en/cloud-recording/product_cloud_recording?platform=RESTful
 - https://www.section.io/engineering-education/agora-cloud-recording/
 - https://github.com/muaz-khan/RecordRTC
+- https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API
